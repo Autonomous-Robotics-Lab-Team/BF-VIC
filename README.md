@@ -7,16 +7,12 @@
 This project is based on **Ubuntu 20.04 + ROS Noetic**, and depends on the official `franka_ros`. 
 The `franka_example_controllers` package is customized to implement user-defined control logic.
 
----
-
 ## 1. 系统环境 | System Environment
 
 - Ubuntu 20.04  
 - ROS Noetic  
 - Properly installed and configured `franka_ros`  
 - Franka Emika Panda robot supported  
-
----
 
 ## 2. 编译说明 | Build Instructions
 
